@@ -12,7 +12,7 @@
       {
        printf("Enter the temperature value in Degree: \n\t");
        scanf("%f",&d);
-       printf("\nTemperarure in degree celscius: %f\n",d);
+       printf("\nTemperature in degree celscius: %f\n",d);
        t=(d*9/5)+32;
        printf("\nTemperature in Farenheit:");
        printf("%f",t);
